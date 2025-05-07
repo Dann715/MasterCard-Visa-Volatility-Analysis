@@ -28,13 +28,22 @@ Analyzed average monthly trading volume to detect periods of high investor activ
 Detected longest consecutive streaks of gains (bull runs) and losses (bear runs) over the 16-year period.
 
 Key Findings
-Visa experienced a longer bull run than MasterCard, with consistent upward momentum in certain recovery phases.
+- Visa experienced a longer bull run than MasterCard, with consistent upward momentum in certain recovery phases.
+- MasterCard showed higher monthly volatility during early 2020, reflecting pandemic-induced market swings.
+- Both stocks had volume spikes during financial crises and earnings seasons, indicating investor reaction.
+- The 200 day moving average reliably indicated long-term trend direction for both companies.
 
-MasterCard showed higher monthly volatility during early 2020, reflecting pandemic-induced market swings.
+Sample Visualizations
 
-Both stocks had volume spikes during financial crises and earnings seasons, indicating investor reaction.
+Monthly Volatility Chart
+![image](https://github.com/user-attachments/assets/ca093dd0-7320-4594-8fce-21d54bd46f20)
 
-The 200 day moving average reliably indicated long-term trend direction for both companies.
+50 & 200 Day Moving Averages
+![image](https://github.com/user-attachments/assets/0e58295d-1ac4-4d10-a447-973d50054cfe)
 
-
+How to Reproduce
+- Import MasterandVisa.csv into MySQL.
+- Run the queries in it to analyze data.
+- Export SQL outputs as .csv and connect to Tableau for visualization.
+- Explore the Mastercard and Visa Visualizations.twbx for interactive insights.
 
