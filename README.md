@@ -1,7 +1,7 @@
 # Portfolio Projects 
 Collection of Data Science and Analytics projects
 
-# Contencts
+# Contents
 #1 Visa & MasterCard Stock Volatility Analysis (2008–2024)
 This project explores long term stock performance and volatility of Visa (V) and MasterCard (M) using SQL and Tableau. It uncovers key financial trends, such as price fluctuations, trading volume patterns, and notable bull and bear runs, helping investors and analysts understand behavior in the financial sector.
 
