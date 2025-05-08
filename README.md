@@ -1,5 +1,5 @@
 # Portfolio Projects 
-Collection of Data Science and Analytics projects
+Collection of Data Science/Analytics and business projects
 
 ## Contents
 ### 1 Visa & MasterCard Stock Volatility Analysis (2008–2024)
@@ -16,4 +16,7 @@ Collection of Data Science and Analytics projects
 #### Tools Used
 - SQL (MySQL) - For cleaning and analysis
 - Excel - For Data Formatting
+
+### 3 Spotify concert optimization - Smith Analytics Consortium Datathon (Team VinylVantage)
+- Collaborated with a team on a Deloitte sponsored business case to optimize artist selection and marketing for a Spotify live concert. Developed a machine learning based artist ranking system, integrated Google Trends data, and built a full event budget and multi channel marketing plan. Recognized for producing the most operationally complete and investment ready proposal.
 
